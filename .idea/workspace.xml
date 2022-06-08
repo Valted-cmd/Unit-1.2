@@ -43,7 +43,7 @@
       <recent name="C:\GitHub\Unit 1.2\artifacts" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MobileBankApiTestV6">
     <configuration name="MobileBankApiTestV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rest.test" />
       <extension name="coverage">
@@ -59,8 +59,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MobileBankApiTestV6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.rest" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.rest.MobileBankApiTestV6" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MobileBankApiTestV6" />
         <item itemvalue="JUnit.MobileBankApiTestV2" />
       </list>
     </recent_temporary>
